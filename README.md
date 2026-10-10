@@ -4,6 +4,6 @@ This repository contains scripts used in the analysis of the manuscript: "**Dist
 
 ## Data availability
 
-AGA data (Wei et al.): [CNP0006019](https://db.cngb.org/cnsa/)
+AGA data (Wei *et al.*): [CNP0006019](https://db.cngb.org/cnsa/)
 
-AA data (Ober-Reynolds et al.): [GSE212450](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212450)
+AA data (Ober-Reynolds *et al.*): [GSE212450](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE212450)
